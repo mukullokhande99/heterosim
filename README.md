@@ -1,0 +1,1 @@
+HeteroSim is a full system simulator supporting x86 multicore processors combined with a FPGA via bus-based architecture. Flexible design space exploration is enabled by a wide range of system configurations. A complete simulation flow with compiler support is provided so that a full system simulation can be performed with various performance metrics returned.
